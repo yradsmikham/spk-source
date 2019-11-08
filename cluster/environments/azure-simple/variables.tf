@@ -121,3 +121,8 @@ variable "oms_agent_enabled" {
   type    = "string"
   default = "false"
 }
+
+variable "ydawgie-variable" {
+  type    = "string"
+  default = "ydawgie"
+}
